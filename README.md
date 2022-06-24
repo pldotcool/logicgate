@@ -1,7 +1,7 @@
 # logicgate
 Demo -> https://free.logicgate.pl.cool
 
-/*
+
 
     [ SET ]     A -|---------
                    | GATE 1   )- OUT
@@ -25,4 +25,4 @@ Demo -> https://free.logicgate.pl.cool
                        | GATE 4   )- OUT
     [ GATE 2 OUT ]  B -|_________
 
-*/
+
