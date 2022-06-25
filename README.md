@@ -1,5 +1,6 @@
 # logicgate
 Demo -> https://free.logicgate.pl.cool
+Version 2.0 -> https://free.logicgate.pl.cool/v2/
 
 
 
