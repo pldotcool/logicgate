@@ -26,3 +26,4 @@ Demo -> https://free.logicgate.pl.cool
     [ NAND 2 OUT ]     B -|_________
 
 
+email: piotrek@pl.cool
