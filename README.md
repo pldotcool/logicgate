@@ -27,4 +27,4 @@ Version 2.0 -> https://free.logicgate.pl.cool/v2/
     [ NAND 2 OUT ]     B -|_________
 
 
-email: piotrek@pl.cool
+email: piotrek@PL.cool
