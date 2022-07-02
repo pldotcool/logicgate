@@ -27,4 +27,24 @@ Version 2.0 -> https://free.logicgate.pl.cool/v2/
     [ NAND 2 OUT ]     B -|_________
 
 
+
+
+
+
+<br><br><br>
+<p>
+8 bit adder<br>
+[0, 0, 1, 0, 1, 0, 0, 1] => 41<br>
++<br>
+[0, 1, 0, 0, 0, 1, 1, 1] => 71<br>
+=<br>
+[0, 1, 1, 1, 0, 0, 0, 0] => 112
+</p>
+
+<img src='https://pl.cool/8bitadder.png' />
+
+
+
 email: Piotrek@PL.cool
+
+
